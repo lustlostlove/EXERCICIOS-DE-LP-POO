@@ -1,4 +1,4 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
+
 
 public class ExibeIdade {
 	
