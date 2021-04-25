@@ -1,4 +1,4 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
+
 	import java.util.Random;
 
 public class ExibeNumeroAleatorio {
