@@ -49,7 +49,7 @@ public class Exe11 {
 				  }
 				  System.out.println("Resultado " + resultado);
 		      
-		      
+		       
 	}
 }
 
