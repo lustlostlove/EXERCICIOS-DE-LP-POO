@@ -42,7 +42,7 @@ do{
  			 System.out.println(" ************************* ");
  			 
                     System.out.println(" Deseja continuar  s/n ?");
- 			decidir = scStrg.nextLine();
+ 			decidir = scStrg.nextLine().toLowerCase();
  			System.out.println("  ");
  			 System.out.println(" ************************* ");
  			
