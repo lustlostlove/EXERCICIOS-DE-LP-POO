@@ -1,4 +1,3 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
 
 
 public class TiposDeResultado {
@@ -19,3 +18,4 @@ public class TiposDeResultado {
 		}
 	}
 
+ 

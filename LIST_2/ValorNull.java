@@ -1,4 +1,4 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
+
 
 public class ValorNull {
 	
@@ -10,5 +10,5 @@ public class ValorNull {
 	     numero = null;
 		System.out.println(numero);
 	}
-}
+} 
 

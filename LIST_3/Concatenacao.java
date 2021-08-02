@@ -1,4 +1,4 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
+
 public class Concatenacao {
 	public static void main(String[] args) {
 		System.out.println( "Java123"+"Java6"+"123Java"+"6Java" );

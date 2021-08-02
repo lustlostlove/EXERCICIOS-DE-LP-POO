@@ -1,6 +1,6 @@
 
 
-//jéssica fernanda aquiles lúcio
+
 
 public class FrasePreferida {
 	

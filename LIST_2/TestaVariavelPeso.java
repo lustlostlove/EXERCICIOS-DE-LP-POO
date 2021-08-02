@@ -1,4 +1,3 @@
-//JÉSSICA FERNANDA AQUILES LÚCIO RA:2021375 
 
 import java.util.Locale;
 public class TestaVariavelPeso {
