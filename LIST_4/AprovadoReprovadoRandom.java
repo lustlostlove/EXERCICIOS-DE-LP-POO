@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  1 - Crie um arquivo chamado AprovadoReprovadoRandom.java. 
  * Gere um número aleatório com valores entre 0 e 10 (inclusos) e atribua a variável nota. 
@@ -29,3 +30,36 @@ public class AprovadoReprovadoRandom {
 	}
 }
 
+=======
+/*
+ 1 - Crie um arquivo chamado AprovadoReprovadoRandom.java. 
+ * Gere um número aleatório com valores entre 0 e 10 (inclusos) e atribua a variável nota. 
+ * O programa deve exibir a mensagem REPROVADO quando a nota do aluno for menor do que 6 ou APROVADO caso contrário
+ */
+
+
+public class AprovadoReprovadoRandom {
+	
+	public static void main (String[] args) {
+		
+		int nota = (int)(Math.random() * 10);
+		
+		
+		String resultado = ( nota >= 6 ) ? " Aprovado " :"Reprovado " ;
+		
+        //System.out.println(nota);
+       //  System.out.println(b);
+		System.out.println(resultado);
+			
+			
+			
+			
+			
+			
+		
+				
+		
+	}
+}
+
+>>>>>>> 104a1080882590b8f21ea48086918244b1b9f270
